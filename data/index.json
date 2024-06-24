@@ -11,7 +11,7 @@
         {"make": "Hyundai", "model": "Sonata", "year": 2022, "color": "Blue", "price": 26000},
         {"make": "Kia", "model": "Optima", "year": 2023, "color": "Red", "price": 23000}
     ],
-    "gaming_consoles":[
+    "gamingConsoles":[
         {
             "name": "PlayStation 5",
             "manufacturer": "Sony",
