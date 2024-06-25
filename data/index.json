@@ -11,7 +11,7 @@
         {"make": "Hyundai", "model": "Sonata", "year": 2022, "color": "Blue", "price": 26000},
         {"make": "Kia", "model": "Optima", "year": 2023, "color": "Red", "price": 23000}
     ],
-    "gamingConsoles":[
+    "consoles":[
         {
             "name": "PlayStation 5",
             "manufacturer": "Sony",
@@ -55,12 +55,60 @@
     ],
     "friends":[
         {
-            "id":"",
-            "firstName":"",
-            "lastName":"",
-            "gender":"",
+            "id":"1",
+            "firstName":"Princess Fatemah",
+            "lastName":"Dikbaat",
+            "gender":"Female",
             "profile":"",
-            "contactDetails":""
+            "contactDetails":"021 200 0000"
+        },
+        {
+            "id":"2",
+            "firstName":"Neville",
+            "lastName":"Neville",
+            "gender":"Male",
+            "profile":"",
+            "contactDetails":"021 200 0000"
+        },
+        {
+            "id":"3",
+            "firstName":"Timmy",
+            "lastName":"Tenders",
+            "gender":"Male",
+            "profile":"",
+            "contactDetails":"021 200 0000"
+        },
+        {
+            "id":"4",
+            "firstName":"Dad",
+            "lastName":"dy",
+            "gender":"Male",
+            "profile":"",
+            "contactDetails":"021 200 0000"
+        },
+        {
+            "id":"5",
+            "firstName":"Paddy",
+            "lastName":"The Baddy",
+            "gender":"Male",
+            "profile":"",
+            "contactDetails":"021 200 0000"
+        },
+        {
+            "id":"6",
+            "firstName":"Joe",
+            "lastName":"Burg",
+            "gender":"Male",
+            "profile":"",
+            "contactDetails":"021 200 0000"
+        },
+        {
+            "id":"7",
+            "firstName":"We dont talk about",
+            "lastName":"Brunooooo",
+            "gender":"Male",
+            "profile":"",
+            "contactDetails":"021 200 0000"
         }
     ]
 }

@@ -28,13 +28,13 @@ export default {
     CardComp
   },
   computed: {
-    ...mapState('gamingconsoles')
+    ...mapState(['consoles'])
   },
   methods: {
-    ...mapActions('getGamingConsoles')
+    ...mapActions(['getConsoles'])
   },
   created() {
-    this.getGamingConsoles()
+    this.getConsoles()
   }
 }
 </script>

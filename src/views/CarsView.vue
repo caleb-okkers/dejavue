@@ -24,10 +24,10 @@ export default {
     CardComp
   },
   computed: {
-    ...mapState('cars')
+    ...mapState(['cars'])
   },
   methods: {
-    ...mapActions('getCars')
+    ...mapActions(['getCars'])
   },
   created() {
     this.getCars()
