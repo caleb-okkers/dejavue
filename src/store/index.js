@@ -11,7 +11,7 @@ export default createStore({
     setCars(state, payload) {
       state.cars = payload;
     },
-    setGamingConsoles(state, payload) {
+    setConsoles(state, payload) {
       state.consoles = payload;
     },
     setFriends(state, payload) {

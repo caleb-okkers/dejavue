@@ -8,7 +8,7 @@
           </template>
           <template v-slot:body>
             <p>Gender: {{ friend.gender }}</p>
-            <p>Profile: {{ friend.profile }}</p>
+            <p>Profile: <img :src="friend.profile" alt=""></p>
             <p>Contact Details: {{ friend.contactDetails }}</p>
           </template>
         </CardComp>

@@ -2,8 +2,8 @@
     <div>
 
     <h1>Gaming Consoles</h1>
-    <div v-if="gamingConsoles">
-      <CardComp v-for="console in gamingConsoles" :key="console.name">
+    <div v-if="consoles">
+      <CardComp v-for="console in consoles" :key="console.name">
         <template v-slot:header>
           {{ console.name }} ({{ console.release_year }})
         </template>
